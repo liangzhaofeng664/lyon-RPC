@@ -1,0 +1,4 @@
+jdk=com.lyon.lyonrpc.serializer.JdkSerializer
+fastjson=com.lyon.lyonrpc.serializer.FastJsonSerializer
+hessian=com.lyon.lyonrpc.serializer.HessianSerializer
+kryo=com.lyon.lyonrpc.serializer.KryoSerializer

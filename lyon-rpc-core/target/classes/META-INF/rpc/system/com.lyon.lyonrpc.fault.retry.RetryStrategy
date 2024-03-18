@@ -1,0 +1,2 @@
+no=com.lyon.lyonrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.lyon.lyonrpc.fault.retry.FixedIntervalRetryStrategy

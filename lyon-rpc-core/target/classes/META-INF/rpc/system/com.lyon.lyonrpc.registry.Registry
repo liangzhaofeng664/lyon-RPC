@@ -1,0 +1,2 @@
+etcd=com.lyon.lyonrpc.registry.EtcdRegistry
+zookeeper=com.lyon.lyonrpc.registry.ZooKeeperRegistry
